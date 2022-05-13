@@ -1,5 +1,5 @@
 # YECE
 
-Sosyal sorunlara çözüm önerisi olarak bir sistem yapmayı planlıyoruz.
-Bu sistemle sahte, hatalı veya bozuk ürün satışları gibi satışların engellemeyi, yüzyüze
+Sosyal sorunları engelleyecek bir çözüm önerisi planlıyoruz.
+Bu öneriyle sahte, hatalı veya bozuk ürün satışları gibi satışları engellemeyi, yüzyüze
 satış olmadığı için güvenin sağlanmasındaki zorlukların önüne geçmeyi planlıyoruz.
