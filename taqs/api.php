@@ -26,7 +26,7 @@
 
 		<div class="navbar">
 			
-			<a href="#" class="navbar_href">
+			<a href="index.php" class="navbar_href">
 				<div class="navbar_item">
 					Home
 				</div>
@@ -38,7 +38,7 @@
 				</div>
 			</a>
 
-			<a href="api.php" class="navbar_href">
+			<a href="#" class="navbar_href">
 				<div class="navbar_item">
 					API
 				</div>
@@ -46,18 +46,18 @@
 		</div>
 
 	
-		<div class="body">
+		<div class="body_faq">
 
-			<div class="text_panel">
+			<div class="text_panel_faq">
 				<div class="text_header">
-					Visyonumuz
+					Veri Alma
 				</div>
 				<div class="text_content">
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas odit consequatur quidem quod quae deserunt harum voluptas odio animi dolores illum, inventore nobis eaque magni corporis. Dolores consectetur laborum iure.
+					localhost/verial.php$username=omer
 				</div>
 			</div>
 
-			<div class="text_panel">
+			<div class="text_panel_faq">
 				<div class="text_header">
 					Misyonumuz
 				</div>

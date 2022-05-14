@@ -26,13 +26,13 @@
 
 		<div class="navbar">
 			
-			<a href="#" class="navbar_href">
+			<a href="index.php" class="navbar_href">
 				<div class="navbar_item">
 					Home
 				</div>
 			</a>
 
-			<a href="faq.php" class="navbar_href">
+			<a href="#" class="navbar_href">
 				<div class="navbar_item">
 					FAQ
 				</div>
@@ -46,18 +46,18 @@
 		</div>
 
 	
-		<div class="body">
+		<div class="body_faq">
 
-			<div class="text_panel">
+			<div class="text_panel_faq">
 				<div class="text_header">
-					Visyonumuz
+					Neden Block Chain
 				</div>
 				<div class="text_content">
 					Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas odit consequatur quidem quod quae deserunt harum voluptas odio animi dolores illum, inventore nobis eaque magni corporis. Dolores consectetur laborum iure.
 				</div>
 			</div>
 
-			<div class="text_panel">
+			<div class="text_panel_faq">
 				<div class="text_header">
 					Misyonumuz
 				</div>
