@@ -34,13 +34,13 @@
 
 			<a href="faq.php" class="navbar_href">
 				<div class="navbar_item">
-					FAQ
+					API
 				</div>
 			</a>
 
 			<a href="api.php" class="navbar_href">
 				<div class="navbar_item">
-					API
+					FAQ
 				</div>
 			</a>
 		</div>
