@@ -6,6 +6,8 @@ if (isset($_GET['username']))
 		echo "sa";
 	else if ($_GET['username'] == "omer")
 		echo "omer yazdi";
+	else if ($_GET['username'] == "apple")
+		echo "9";
 }
 
 ?>
