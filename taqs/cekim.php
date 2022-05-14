@@ -48,26 +48,27 @@
 	
 		<div class="body_faq">
 
-			<div class="text_panel_faq">
+			<div class="text_panel_faq" style="height:600px;">
 				<div class="text_header">
-					Satıcı Adı
+					Kullanıcı Puanı
 				</div>
-				<div class="text_content">
-					
-					<form action="cekim.php" style="width:100%;">
-						<input type = "text" style="width: 50%; height:60px; border-radius:25px; text-align:center; outline:none; font-size:36px;">
-						<div style ="height:120px;"> 
-						<input type = "submit" value="Ara" style="height:60px; width:90px; margin-top: 20px; background-color:transparent; border-radius:25px; cursor:pointer;">
-						</div>
-					</form>
+				<div class="text_content" style="font-size:200px;">
+					7.1
 				</div>
+				<div class="text_c2" style="font-size:80px;margin-right: 70px;">
+					7,87&nbsp;&nbsp;&nbsp;&nbsp;6,25&nbsp;&nbsp;&nbsp;&nbsp;7,2
+				</div>
+				<div class="text_c3" style="font-size:40px">
+					Trendyol &nbsp;&nbsp;&nbsp;&nbsp;Hepsiburada &nbsp;&nbsp;&nbsp;Gittigidiyor
+				</div>
+				
 			</div>
 
 			<div class="text_panel_faq" style="visibility:hidden;">
 				<div class="text_header" style="visibility:hidden;">
 					Misyonumuz
 				</div>
-				<div class="text_content">
+				<div class="text_content" >
 					Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas odit consequatur quidem quod quae deserunt harum voluptas odio animi dolores illum, <br><br> inventore nobis eaque magni corporis. Dolores consectetur laborum iure. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores, quae doloremque voluptatum deleniti soluta magnam quibusdam deserunt nisi natus. Pariatur architecto saepe numquam omnis officia eveniet soluta rerum maiores iusto?
 				</div>
 			</div>
