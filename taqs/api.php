@@ -50,16 +50,16 @@
 
 			<div class="text_panel_faq">
 				<div class="text_header">
-					Veri Alma
+					Soru
 				</div>
 				<div class="text_content">
-					localhost/verial.php$username=omer
+				Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas odit consequatur quidem quod quae deserunt harum voluptas odio animi dolores illum, <br><br> inventore nobis eaque magni corporis. Dolores consectetur laborum iure. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores, quae doloremque voluptatum deleniti soluta magnam quibusdam deserunt nisi natus. Pariatur architecto saepe numquam omnis officia eveniet soluta rerum maiores iusto?
 				</div>
 			</div>
 
 			<div class="text_panel_faq">
 				<div class="text_header">
-					Misyonumuz
+					Soru
 				</div>
 				<div class="text_content">
 					Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas odit consequatur quidem quod quae deserunt harum voluptas odio animi dolores illum, <br><br> inventore nobis eaque magni corporis. Dolores consectetur laborum iure. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores, quae doloremque voluptatum deleniti soluta magnam quibusdam deserunt nisi natus. Pariatur architecto saepe numquam omnis officia eveniet soluta rerum maiores iusto?

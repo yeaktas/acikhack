@@ -50,19 +50,19 @@
 
 			<div class="text_panel">
 				<div class="text_header">
-					Visyonumuz
+					Gerçek ve Kalite Standartı
 				</div>
 				<div class="text_content">
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas odit consequatur quidem quod quae deserunt harum voluptas odio animi dolores illum, inventore nobis eaque magni corporis. Dolores consectetur laborum iure.
+				Bazı sosyal sorunları ortadan kaldırmaya yönelik bir çözüm önerisi planlıyoruz. Evrensel kalite ve güvenilirlik standardı oluşması için bir sistem geliştirme üzerinde yoğunlaşıyoruz.
 				</div>
 			</div>
 
 			<div class="text_panel">
 				<div class="text_header">
-					Misyonumuz
+					Case Study Ekibi
 				</div>
 				<div class="text_content">
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas odit consequatur quidem quod quae deserunt harum voluptas odio animi dolores illum, <br><br> inventore nobis eaque magni corporis. Dolores consectetur laborum iure. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores, quae doloremque voluptatum deleniti soluta magnam quibusdam deserunt nisi natus. Pariatur architecto saepe numquam omnis officia eveniet soluta rerum maiores iusto?
+					Emirhan Ülker <br><br> Erdoğan Çayır <br><br> Rafet Can Tosun <br><br> Yunus Emre Aktaş
 				</div>
 			</div>
 				
